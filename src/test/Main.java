@@ -5,6 +5,11 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
+/**
+ * @author terwer
+ * @Description
+ * @create 2021-11-30 23:18
+ */
 public class Main {
     public static void main(String[] args) {
         Connection connection = null;

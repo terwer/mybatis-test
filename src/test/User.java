@@ -1,5 +1,10 @@
 package test;
 
+/**
+ * @author terwer
+ * @Description
+ * @create 2021-11-30 23:18
+ */
 public class User {
     int id;
     String username;
